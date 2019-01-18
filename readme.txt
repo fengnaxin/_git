@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+1Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called state.
 Git tracks changes of files.
@@ -8,3 +8,5 @@ dev
 master
 create a new branch is quick and simple
 add merge
+add dev
+
