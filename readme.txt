@@ -7,3 +7,4 @@ ddddddddddddddddddddddddin dev
 dev
 master
 create a new branch is quick and simple
+add merge
